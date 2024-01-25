@@ -1,0 +1,54 @@
+
+html {
+    font-size: 25px;
+    font-family: 'Calibri';
+  }
+  
+  
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+
+  html {
+    background-color: #001d3f;
+  }
+  
+  body {
+    width: 75%;
+    margin: 0 auto;
+    background-color: #faf0e6;
+    padding: 0 0px 20px 0px;
+    border: 3px solid black;
+    object-fit: contain;
+  }
+  #undertext{
+    margin-top:0;
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    font-size:45px;
+    text-shadow: 2px 2px 1px black;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+.text{
+    color: rgb(187, 0, 0);
+    text-align:center;
+}
+#title-text{
+    margin-bottom:0px;
+}
+
+.list-cont{
+   text-align: center;
+}
+ul{
+    list-style-position: inside;
+}
